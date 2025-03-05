@@ -1,102 +1,72 @@
-# Desafio-amigo-secreto-concluido
+# Desafio amigo secreto concluido
 
 <div align="center">
-  <img src="file:///C:/Users/OSWALDO/Desktop/Presente.jpeg.jpg" />
+  <img src="Presente.jpg" alt'presente'
+  width="200"/>
 </div>
 
-## 📋 Sobre o Projeto / About
-
-**PT-BR:**  
-Este é um projeto inicial usando Vite + React + TypeScript, configurado com as melhores práticas de desenvolvimento moderno. Inclui Tailwind CSS para estilização, ESLint para qualidade de código e suporte completo a TypeScript.
-
-**EN:**  
-This is a starter project using Vite + React + TypeScript, set up with modern development best practices. Includes Tailwind CSS for styling, ESLint for code quality, and full TypeScript support.
-
-## 🛠️ Tecnologias / Technologies
+## 📋 Sobre o Projeto
 
 ```javascript
-const techStack = {
-  main: ['React', 'TypeScript', 'Vite'],
-  styling: ['Tailwind CSS'],
-  tools: ['ESLint', 'PostCSS'],
-  icons: ['Lucide React']
+const projetoInfo = {
+  
+  descricao: 'Desafio do amigo secreto da professora Genesys Rondon',
+  autor: 'Seu Nome',
+  versao: '1.0.0'
 };
 
-const projectFeatures = {
-  performance: '⚡ Lightning fast builds with Vite',
-  typescript: '🔐 Type-safe development',
-  styling: '🎨 Utility-first CSS with Tailwind',
-  linting: '🔍 Code quality with ESLint'
+const caracteristicas = {
+  desenvolvimento: '⚡ Builds ultrarrápidos com Vite',
+  tipagem: '🔐 Desenvolvimento seguro com TypeScript',
+  estilizacao: '🎨 CSS moderno com Tailwind',
+  qualidade: '🔍 Qualidade de código com ESLint'
 };
 ```
 
-## 🚀 Como Executar / How to Run
+## 🛠️ Tecnologias Utilizadas
 
 ```javascript
-// Clone o repositório / Clone the repository
-git clone https://github.com/seu-usuario/seu-repositorio
-
-// Instale as dependências / Install dependencies
-const installDeps = async () => {
-  console.log('Installing dependencies...');
-  await exec('npm install');
-};
-
-// Inicie o servidor de desenvolvimento / Start development server
-const startDev = async () => {
-  console.log('Starting development server...');
-  await exec('npm run dev');
-};
-
-// Build para produção / Production build
-const buildProject = async () => {
-  console.log('Building for production...');
-  await exec('npm run build');
+const tecnologias = {
+  principais: [
+    'React 18',
+    'TypeScript',
+    'Vite'
+  ],
+  estilizacao: [
+    'Tailwind CSS'
+  ],
+  ferramentas: [
+    'ESLint',
+    'PostCSS'
+  ],
+  icones: [
+    'Lucide React'
+  ]
 };
 ```
 
-## 📁 Estrutura do Projeto / Project Structure
+## 🚀 Como Executar o Projeto
 
 ```javascript
-const projectStructure = {
-  src: {
-    components: '📂 React components',
-    styles: '🎨 CSS and Tailwind styles',
-    types: '📝 TypeScript type definitions',
-    main: '🚀 Application entry point'
-  },
-  config: {
-    vite: '⚡ Vite configuration',
-    tailwind: '🎨 Tailwind CSS configuration',
-    typescript: '📝 TypeScript configuration'
+// Instalação
+const instalar = async () => {
+  try {
+    console.log('📦 Instalando dependências...');
+    await executar('npm install');
+    console.log('✅ Dependências instaladas com sucesso!');
+  } catch (erro) {
+    console.error('❌ Erro na instalação:', erro);
   }
 };
+
+
 ```
 
-## 🤝 Contribuindo / Contributing
 
-```javascript
-const contributeSteps = [
-  '1. Fork the project',
-  '2. Create your feature branch (`git checkout -b feature/AmazingFeature`)',
-  '3. Commit your changes (`git commit -m "Add some AmazingFeature"`)',
-  '4. Push to the branch (`git push origin feature/AmazingFeature`)',
-  '5. Open a Pull Request'
-];
-```
-
-## 📝 Licença / License
-
-```javascript
-const license = {
-  type: 'MIT',
-  description: 'This project is licensed under the MIT License - see the LICENSE file for details'
-};
-```
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </div>
 
 ---
-⭐️ From [Seu Nome](https://github.com/seu-usuario)
+⭐️ Feito com 💜 por [Oswaldo](https://github.com/LordNecoReal)
