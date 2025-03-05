@@ -5,44 +5,22 @@
   width="200"/>
 </div>
 
+## Em construção da descrição.
+
 ## 📋 Sobre o Projeto
 
-```javascript
-const projetoInfo = {
-  
-  descricao: 'Desafio do amigo secreto da professora Genesys Rondon',
-  autor: 'Oswaldo (Lord Neco)',
-  versao: '1.0.0'
-};
+```
+  Descrição: Desafio do amigo secreto da professora Genesys Rondon
+  Autor: Oswaldo (Lord Neco)
+  Versao: 1.0
 
-const caracteristicas = {
-  desenvolvimento: '⚡ Builds ultrarrápidos com Vite',
-  tipagem: '🔐 Desenvolvimento seguro com TypeScript',
-  estilizacao: '🎨 CSS moderno com Tailwind',
-  qualidade: '🔍 Qualidade de código com ESLint'
-};
+
 ```
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Programa Utilizado:
 
-```javascript
-const tecnologias = {
-  principais: [
-    'React 18',
-    'TypeScript',
-    'Vite'
-  ],
-  estilizacao: [
-    'Tailwind CSS'
-  ],
-  ferramentas: [
-    'ESLint',
-    'PostCSS'
-  ],
-  icones: [
-    'Lucide React'
-  ]
-};
+Visual Studio Code (VSC)
+
 ```
 
 ## 🚀 Como Executar o Projeto
