@@ -11,7 +11,7 @@
 const projetoInfo = {
   
   descricao: 'Desafio do amigo secreto da professora Genesys Rondon',
-  autor: 'Seu Nome',
+  autor: 'Oswaldo (Lord Neco)',
   versao: '1.0.0'
 };
 
@@ -47,22 +47,12 @@ const tecnologias = {
 
 ## 🚀 Como Executar o Projeto
 
-```javascript
-// Instalação
-const instalar = async () => {
-  try {
-    console.log('📦 Instalando dependências...');
-    await executar('npm install');
-    console.log('✅ Dependências instaladas com sucesso!');
-  } catch (erro) {
-    console.error('❌ Erro na instalação:', erro);
-  }
-};
+Abra o " index.html"
 
 
-```
 
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
