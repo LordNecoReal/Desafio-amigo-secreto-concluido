@@ -5,7 +5,6 @@
   width="200"/>
 </div>
 
-## Em construção da descrição.
 
 ## 📋 Sobre o Projeto
 
@@ -13,40 +12,41 @@
 
   Descrição: Desafio do amigo secreto da professora Genesys Rondon
   Autor: Oswaldo (Lord Neco)
-  Versao: 1.0
+  Versao: 1.1
 
 
 ```
 
-## 🛠️ Programa Utilizado:
+## 🛠️ Programas/sites Utilizado:
 
 ```
-
-Visual Studio Code (VSC)
-
-
-```
-
-## 🚀 Como Executar o Projeto
-
-```
-
-Abra o " index.html"
+Visual Studio Code(VSC) 
+bolt.new
 
 
 
 ```
+
+## 🚀 Como Executar o Projeto:
 
 ---
+
+Clique abaixo para redirecionar:
+
+[Amigo secreto](https://lordnecoreal.github.io/Desafio-amigo-secreto-concluido/)
+
+---
+
+## Tutorial:
+
+---
+
 
 ## Creditos:
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-</div>
 
----
+
 ⭐️ Feito com 💜 por [Oswaldo](https://github.com/LordNecoReal)
 ```
